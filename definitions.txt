@@ -1,0 +1,25 @@
+Virus:
+injects itself into its host and uses it to replicate itself.
+
+
+DDOS:
+Distributed Denial of Service.
+Overloads a websitre (usually) using multiple hacked computors.
+
+BotNet:
+A network of hacked computors that can be used ot DDOS other computors, spam, 
+
+Phishing Scam
+spam, emails sent that when opened will try to convince you to give up your passwords.
+
+Anti-Virus
+A program that looks for suspicious code or compares code to known examples
+
+Password Security
+The simple username and password authentication method. Not the best. Unencripted is also horrible
+
+2FA.
+two factor authentication. two people have the same 'key' that encodes the time. The two keys make the same code and this code can be used in addition to password security
+
+
+

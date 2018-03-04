@@ -1,0 +1,53 @@
+body {
+    font-family: "Comic Sans MS";
+	background-color: #333333;
+    color: #FFFFFF;
+    font-size: 20;
+}
+
+p {
+	font-size: 20;
+}
+
+ h1 {
+	 color: #9933ff;
+ }
+ 
+#stayattop {
+	position: fixed;
+	top:0;
+	right:0;
+}
+
+ 
+h2 {
+	 color: #33ccff
+	
+ }
+ 
+table {
+	width: 100%;
+}
+
+table, th, td {
+    border: 1px solid grey;
+    border-collapse: collapse;
+	padding: 15px;
+	text-align: left;
+    font-size: 20;	
+    
+}
+
+img:hover{
+	width: 60px;
+	height: 60px;
+}
+
+img {
+	-webkit-transition: all 0.5s;
+}
+
+#secondtable {
+	border: 1px solid #343434
+
+}
